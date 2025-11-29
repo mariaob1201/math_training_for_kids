@@ -1,6 +1,6 @@
 # math_training_for_kids
 
-Repo with the open-access book for mathematical education (Book)[https://www.scribd.com/document/490450987/cuadernillo-Olimpiadas-Matematicas-Gto-pdf]. 
+Repo with the open-access book for mathematical education [Book](https://www.scribd.com/document/490450987/cuadernillo-Olimpiadas-Matematicas-Gto-pdf). 
 
 I worked on the creation of this book after 4 years helping as math instructor for the ONMAPS National Olympiad of Mathematics for Kids of primary and secondary schools when I was an undergraduate student. The book was distributed openly trhough the state of Guanajuato in 2019. 
 
