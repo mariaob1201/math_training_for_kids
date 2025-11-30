@@ -1,4 +1,4 @@
-# math_training_for_kids
+# Book of Mathematical Education for K12
 
 Repo with the open-access book for mathematical education [Book](https://www.scribd.com/document/490450987/cuadernillo-Olimpiadas-Matematicas-Gto-pdf). 
 
